@@ -121,7 +121,7 @@ public class IdentityService implements BaseService
         List<Identity> search = Collections.emptyList();
 
         try {
-            if (filter != "") {
+            if (filter != null && !filter.isEmpty()) {
                 filter = String.format("LOWER(name) LIKE '%%%1$s%%' OR LOWER(email) LIKE '%%%1$s%%'",
                         filter.toLowerCase());
             }
