@@ -33,6 +33,7 @@ The application is using Java JDBC to connect with and H2 Database Engine.
 Identities are stores in 'Identities' table of schema 'IAM_Philip'. The physical database file and schema name can be change via modifying file 'resources/application.properties'
 
 Identities table structure:
+
 | Field           | Data type    | Notes       |
 |-----------------|--------------|-------------|
 | uid             | long         | Primary key |
