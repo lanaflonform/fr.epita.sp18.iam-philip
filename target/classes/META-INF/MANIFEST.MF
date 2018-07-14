@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: iam-philip
+Implementation-Version: 0.0.1
+Built-By: Philip
+Implementation-Vendor-Id: fr.epita.sp18
+Build-Jdk: 1.8.0_172
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/iam-philip
+Created-By: Maven Integration for Eclipse
+

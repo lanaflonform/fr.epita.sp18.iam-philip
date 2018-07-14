@@ -1,0 +1,40 @@
+SAVE FOR READING:
+
+Spring Boot documents
+https://docs.spring.io/spring-boot/docs/current/reference/html/index.html
+
+Spring Boot project structure
+https://github.com/bigzidane/springboot-rest-h2-swagger
+
+Beginning Spring Boot 2
+https://github.com/apress/beg-spring-boot-2
+https://dzone.com/articles/spring-boot-and-spring-jdbc-with-h2
+
+https://stackoverflow.com/questions/45490749/service-and-dao-vs-mvc
+
+Domain-Driven Design and MVC Architectures
+https://blog.fedecarg.com/2009/03/11/domain-driven-design-and-mvc-architectures/
+https://www.infoq.com/articles/ddd-in-practice
+https://www.infoq.com/articles/ddd-evolving-architecture
+https://thinkinginobjects.com/2012/08/26/dont-use-dao-use-repository/
+
+https://www.ibm.com/developerworks/java/library/j-genericdao/index.html
+https://github.com/rodrigouchoa/generic-dao
+https://github.com/eugenp/tutorials
+
+https://dzone.com/articles/creating-a-rest-web-service-with-java-and-spring-p-1
+https://www.journaldev.com/1696/exception-handling-in-java
+https://www.journaldev.com/2736/spring-security-example-userdetailsservice
+https://stackify.com/java-custom-exceptions/
+
+https://dzone.com/articles/implementing-jwt-authentication-on-spring-boot-api
+https://www.devglan.com/spring-security/angular-jwt-authentication
+https://auth0.com/blog/implementing-jwt-authentication-on-spring-boot/
+used https://auth0.com/blog/securing-spring-boot-with-jwts/
+https://www.linkedin.com/pulse/json-web-token-jwt-spring-security-real-world-example-boris-trivic/
+https://github.com/vatri/spring-rest-ecommerce/blob/master/src/main/java/net/vatri/ecommerce/security/AuthenticationSuccessHandler.java
+
+https://medium.com/codingthesmartway-com-blog/angular-material-and-angular-6-material-design-for-angular-6b1a3ee476f0
+http://javasampleapproach.com/frontend/angular/how-to-integrate-angular-6-springboot-2-0-restapi-springtoolsuite#Integrate_SpringBoot_RestAPI_038_Angular_6
+
+https://medium.com/@aleixsuau/error-handling-angular-859d529fa53a
